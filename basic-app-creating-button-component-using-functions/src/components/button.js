@@ -1,4 +1,4 @@
-/* Creating a component using stateless react functions.
+/* Creating a component using stateless react functions. (those types of components are called stateless/dumb components)
 If your component doesn’t have its own state, you can just use regular JavaScript functions:
 
 function Button (props) {
